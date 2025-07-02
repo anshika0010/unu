@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+:root {
+  --bg-acne: #f7e9aa;
+  --bg-aging: #d3e5ff;
+  --bg-dry: #e0f8e9;
+  --bg-sensitive: #fde2e4;
+}
