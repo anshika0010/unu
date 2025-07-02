@@ -1,7 +1,7 @@
 import { Mail, Lock } from "lucide-react";
 import logo from "../assets/logo.png";
 import Navbar from "./Navbar";
-const SignupPage = () => {
+const SignUpPage = () => {
   return (
     <>
       <Navbar />
@@ -101,4 +101,4 @@ const SignupPage = () => {
   );
 };
 
-export default SignupPage;
+export default SignUpPage;
