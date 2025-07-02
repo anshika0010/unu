@@ -4,8 +4,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 // Import your pages/components
 import Home from "./pages/Home";
 import LoginPage from "./components/LoginPage";
-import SignUpPage from "./components/SignUpPage";
 import IngredientologyPage from "./pages/IngredientologyPage";
+import SignUpPage from "./components/SignUpPage";
 
 const App = () => {
   return (
